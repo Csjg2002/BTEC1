@@ -3,6 +3,6 @@
 <h2>Certificate:</h2>
 
 <p align="center">
-<img src="https://imgpile.com/m/IASN0l9" height="80%" width="80%" alt="Certificate"/>
+<img src="https://cdn.imgpile.com/f/IASN0l9_xl.jpg" height="80%" width="80%" alt="Certificate"/>
 <br />
 <br />
